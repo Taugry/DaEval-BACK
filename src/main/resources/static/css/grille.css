@@ -1,0 +1,12 @@
+.red {
+	color: red;
+}
+
+@page landscape-def {
+	size: A4 landscape;
+	margin:10px;
+}
+
+body {
+	page : landscape-def;
+}
